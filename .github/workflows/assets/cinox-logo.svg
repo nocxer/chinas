@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 340" role="img" aria-labelledby="title desc">
+  <title id="title">Cinox Holdings Global Group logo</title>
+  <desc id="desc">Blue and black Cinox Holdings Global Group wordmark with accent stripes</desc>
+  <defs>
+    <linearGradient id="blueGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2447ff" />
+      <stop offset="100%" stop-color="#0816e5" />
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="340" fill="#f2f2f2"/>
+  <text x="30" y="190" font-size="220" font-family="Impact, Arial Black, sans-serif" fill="url(#blueGrad)">Cinox Holdings</text>
+  <text x="600" y="315" font-size="140" letter-spacing="4" font-family="Impact, Arial Black, sans-serif" fill="#04040a">Global Group</text>
+  <rect x="38" y="208" width="515" height="16" fill="#09090f"/>
+  <rect x="38" y="243" width="515" height="16" fill="#1730ff"/>
+  <rect x="38" y="278" width="515" height="16" fill="#8ef20a"/>
+</svg>
