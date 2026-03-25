@@ -1,9 +1,3 @@
- (cd "$(git rev-parse --show-toplevel)" && git apply --3way <<'EOF' 
-diff --git a/README.md b/README.md
-index cd24842892a8c573e3b481471a4b579081f39013..243839468f8acb0500b21efab2f1b465283ac980 100644
---- a/README.md
-+++ b/README.md
-@@ -1,2 +1,37 @@
 -# chinas
 -Ini Newe Tine Basa "You and I have work to Do"
 +# Cinox Holdings Global Group Website
